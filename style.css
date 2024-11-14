@@ -71,6 +71,7 @@
     border: none;
     outline: none;
     width: 70%;
+    text-decoration: none;
 }
 
 
@@ -120,6 +121,7 @@
     border-radius: 5%;
     outline: none;
     border: none;
+    text-decoration: none;
 }
 
 .third-inner-button-2 {
@@ -133,6 +135,7 @@
     border-radius: 5%;
     outline: none;
     border: 1px solid white;
+    text-decoration: none;
 }
 
 .fourth {
